@@ -19,7 +19,5 @@ I am currently working on some personal projects and helping in a online Pokemon
 You can reach me in some ways! Please, feel free to contact me through:
 
 ![](https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin&link=https://www.linkedin.com/in/yuri-weilemann&link=https://www.linkedin.com/in/yuri-weilemann)
-
 ![](https://img.shields.io/badge/Twitter--1DA1F2?style=social&logo=twitter&link=https://twitter.com/YuriWeilemann&link=https://twitter.com/YuriWeilemann)
-
 ![](https://img.shields.io/badge/Facebook--1877F2?style=social&logo=facebook&link=https://www.facebook.com/YuriWeilemann94&link=https://www.facebook.com/YuriWeilemann94)
