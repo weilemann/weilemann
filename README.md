@@ -18,6 +18,18 @@ I am currently working on some personal projects and helping in a online Pokemon
 
 You can reach me in some ways! Please, feel free to contact me through:
 
-![](https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin&link=https://www.linkedin.com/in/yuri-weilemann&link=https://www.linkedin.com/in/yuri-weilemann)
-![](https://img.shields.io/badge/Twitter--1DA1F2?style=social&logo=twitter&link=https://twitter.com/YuriWeilemann&link=https://twitter.com/YuriWeilemann)
-![](https://img.shields.io/badge/Facebook--1877F2?style=social&logo=facebook&link=https://www.facebook.com/YuriWeilemann94&link=https://www.facebook.com/YuriWeilemann94)
+<!-- Actual text -->
+
+[![LinkedIn][1.2]][1] [![Twitter][2.2]][2] [![Facebook][3.2]][3] 
+
+<!-- Icons -->
+
+[1.2]: https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin
+[2.2]: https://img.shields.io/badge/Twitter--1DA1F2?style=social&logo=twitter
+[3.2]: https://img.shields.io/badge/Facebook--1877F2?style=social&logo=facebook
+
+<!-- Links to my social media accounts -->
+
+[1]: https://www.linkedin.com/in/yuri-weilemann/
+[2]: https://twitter.com/YuriWeilemann/
+[3]: https://www.facebook.com/YuriWeilemann94/
