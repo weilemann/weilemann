@@ -1,7 +1,7 @@
 # Hello, there! I am Yuri! 👋
 ### Welcome to my profile! 
 
-My name is Yuri Weilemann and I am a FullStack Developer within about 1 year experience. Also I have a degree in Mechanical Engineering.
+My name is Yuri Weilemann and I am a FullStack Developer within about 4 year experience. Also I have a degree in Mechanical Engineering.
 
 I am currently working on some personal projects and helping in a online Pokemon game as a LUA Scripter. I am also currently dedicating my studies to C#, React.JS, React.Native and TypeScript.
 
