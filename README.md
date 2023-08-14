@@ -3,7 +3,7 @@
 
 My name is Yuri Weilemann and I am a FullStack Developer within about 4 years experience. Also I have a degree in Mechanical Engineering.
 
-I am currently working on some personal projects and helping in a online Pokemon game as a LUA Scripter. I am also currently dedicating my studies to C#, React.JS, React.Native and TypeScript.
+I am currently working at a company in Rio de Janeiro, Brazil, and also on some personal projects. Also, I am a volunteer scripter in an online Pokemon game. I am currently dedicating my studies to C#, React.JS, React.Native and TypeScript.
 
 ## Languages & Technologies
 
